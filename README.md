@@ -16,7 +16,7 @@
 </a>
 <br />
 
-### Find me on www 🌏 :
+### Get in Touch with me 📫 :
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bhuvanesh-mishra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
