@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Video Games
 ### Quick Stats:
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Bhuvanesh01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh01&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh01&theme=dark&layout=compact" />
 </a>
